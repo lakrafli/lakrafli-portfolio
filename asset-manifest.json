@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lakrafli-portfolio/static/css/main.326a7b53.css",
-    "main.js": "/lakrafli-portfolio/static/js/main.518666b8.js",
+    "main.js": "/lakrafli-portfolio/static/js/main.324658f5.js",
     "static/js/415.4d6acbeb.chunk.js": "/lakrafli-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/lakrafli-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/lakrafli-portfolio/static/media/Soumyajit_Behera-BIT_MESRA.c4ad25033d031313db10.pdf",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/lakrafli-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/lakrafli-portfolio/index.html",
     "main.326a7b53.css.map": "/lakrafli-portfolio/static/css/main.326a7b53.css.map",
-    "main.518666b8.js.map": "/lakrafli-portfolio/static/js/main.518666b8.js.map",
+    "main.324658f5.js.map": "/lakrafli-portfolio/static/js/main.324658f5.js.map",
     "415.4d6acbeb.chunk.js.map": "/lakrafli-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/lakrafli-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.326a7b53.css",
-    "static/js/main.518666b8.js"
+    "static/js/main.324658f5.js"
   ]
 }
