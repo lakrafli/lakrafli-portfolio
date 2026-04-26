@@ -68,8 +68,11 @@ pour .&nbsp;
           <Col md={12} className="home-about-social">
           <h1>TROUVEZ-MOI SUR</h1>
           <p>
-               N'hésitez pas à <span className="purple">me contacter</span>
-          </p>
+  N'hésitez pas à{" "}
+  <a href="https://lakrafli.github.io/mailing-lakrafli" className="purple">
+    me contacter direct 
+  </a>
+</p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a

@@ -211,7 +211,7 @@ onçu avec
               title="restaurant website"
               description="Je suis fier de vous présenter mon site web que j'ai créé en utilisant HTML, CSS et JavaScript. C'est une plateforme unique qui combine à la fois la restauration rapide et l'apprentissage culinaire. Après trois semaines de codage intensif, voici le résultat final."
               ghLink="https://github.com/lakrafli/Site-restauration.github"
-              demoLink="https://lakrafli.github.io/Site-restauration.github/"  
+              demoLink="https://lakrafli.github.io/Site-restauration.github/  "  
             />
           </Col>
 
