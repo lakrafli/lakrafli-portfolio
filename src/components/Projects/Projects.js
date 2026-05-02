@@ -10,6 +10,8 @@ import suicide from "../../Assets/Projects/suicide.png";
 import biostone from "../../Assets/Projects/biostonepor.png";
 import php from "../../Assets/Projects/php.png";  
 import anatomie from "../../Assets/Projects/anatomie.png";  
+import recomandation from "../../Assets/Projects/recomandation.png";  
+
 
 
 
@@ -97,6 +99,36 @@ onçu avec
 
   />
 </Col>
+
+
+
+
+<Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={recomandation}
+    isBlog={false}
+    title="Projet - Recommandations de santé"
+    description={
+      <>
+        Le but de ce projet était de développer une application web permettant
+        d’afficher des recommandations de santé selon différents critères :
+        catégorie, sous-catégorie et public ciblé. Le projet repose sur une
+        <span style={{ color: '#61DAFB' }}> API REST</span> développée avec des
+        données issues d’un fichier JSON local, construites à partir des
+        recommandations officielles du PNNS.
+        <br />
+        Le front-end permet à l’utilisateur de filtrer dynamiquement les
+        recommandations avec <span style={{ color: '#F7DF1E' }}>fetch()</span>,
+        sans rechargement de la page.
+      </>
+    }
+    ghLink="https://github.com/lakrafli/Recommandations-de-Sant-"
+    demoLink="https://lakrafli.github.io/Recommandations-de-Sant-/"
+
+  />
+</Col>
+
+
 
 
 
