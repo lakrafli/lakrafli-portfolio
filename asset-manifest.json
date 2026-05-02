@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lakrafli-portfolio/static/css/main.326a7b53.css",
-    "main.js": "/lakrafli-portfolio/static/js/main.324658f5.js",
+    "main.js": "/lakrafli-portfolio/static/js/main.87008058.js",
     "static/js/415.4d6acbeb.chunk.js": "/lakrafli-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/lakrafli-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/lakrafli-portfolio/static/media/Soumyajit_Behera-BIT_MESRA.c4ad25033d031313db10.pdf",
@@ -17,18 +17,19 @@
     "static/media/suicide.png": "/lakrafli-portfolio/static/media/suicide.c2f08f8f8ac55802ba7f.png",
     "static/media/php.png": "/lakrafli-portfolio/static/media/php.b63c2705ef2c7b8911c4.png",
     "static/media/anatomie.png": "/lakrafli-portfolio/static/media/anatomie.ceb0fe1af6268720a3d7.png",
+    "static/media/recomandation.png": "/lakrafli-portfolio/static/media/recomandation.66f4e534dfdf87325dc0.png",
     "static/media/home-bg.jpg": "/lakrafli-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/SAE.png": "/lakrafli-portfolio/static/media/SAE.a769e8fb5c5b0280b3ad.png",
     "static/media/avatar.svg": "/lakrafli-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/lakrafli-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/lakrafli-portfolio/index.html",
     "main.326a7b53.css.map": "/lakrafli-portfolio/static/css/main.326a7b53.css.map",
-    "main.324658f5.js.map": "/lakrafli-portfolio/static/js/main.324658f5.js.map",
+    "main.87008058.js.map": "/lakrafli-portfolio/static/js/main.87008058.js.map",
     "415.4d6acbeb.chunk.js.map": "/lakrafli-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/lakrafli-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.326a7b53.css",
-    "static/js/main.324658f5.js"
+    "static/js/main.87008058.js"
   ]
 }
